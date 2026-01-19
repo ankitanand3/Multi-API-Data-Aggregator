@@ -1,4 +1,9 @@
 fastapi
+uvicorn
+httpx
+
+
+# uv pip install -r requirements.txt
 
 
 
